@@ -1,6 +1,3 @@
-#     Growth-Mindset-App
-# Growth Mindset Challenge: Web App with Streamlit.
-
 # To-Do List CLI Application
 # This is a simple Command-Line Interface (CLI) application for managing a to-do list using Python. The application allows users to add, list, mark as complete, and remove tasks efficiently. It uses the click library for CLI interactions and stores tasks in a JSON file for persistence.
 
